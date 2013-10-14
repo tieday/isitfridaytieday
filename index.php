@@ -17,7 +17,7 @@ date_default_timezone_set('Europe/Stockholm');
 <p><a href="http://fridaytieday.com/">Wear a Friday Tieday tie or GTFO!</a></p>
 <?php else:?>
 <h1>It's not Friday Tieday yet!</h1>
-<p><a href="http://fridaytieday.com/">But should get ready for next friday with some proper ties!</a></p>
+<p><a href="http://fridaytieday.com/">But you should get ready for next friday with some proper ties!</a></p>
 <?php endif;?>
 
 </body>
